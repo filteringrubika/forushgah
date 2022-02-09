@@ -89,6 +89,14 @@ print ("""The best filtering rule in virtual: (law-ryson.blogfa.com There are Ry
 print (Fore.YELLOW + "")
 print (""" . . . . .  """)
 print (Fore.GREEN + "")
+print (""" 
+         ‌       ▇◤▔▔▔▔▔▔▔◥▇ 
+          ‌      ▇▏◥▇◣┊◢▇◤▕▇
+         ‌       ▇▏▃▆▅▎▅▆▃▕▇
+        ‌        ▇▏╱▔▕▎▔▔╲▕▇
+        ‌        ▇◣◣▃▅▎▅▃◢◢▇
+         ‌       ▇▇◣◥▅▅▅◤◢▇▇
+         ‌       ▇▇▇◣╲▇╱◢▇▇▇   """  )
 x = """ Loading ~ ~ ~     . . . . . . . """
 # 1 chanel 2 Group 3 acc
 up = input(""" 

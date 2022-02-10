@@ -153,4 +153,4 @@ if up != "3":
 print("  ")
 print (" ")
 print(f"{red} ")
-print ("     https://ehsanlucifer.mixin.ir    ")
+print ("     https://ehsanlucien.mixin.ir    ")
